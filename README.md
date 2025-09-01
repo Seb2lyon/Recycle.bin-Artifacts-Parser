@@ -1,5 +1,9 @@
 # Recycle.bin-Artifacts-Parser
 ## Post-mortem Windows forensics script - Analysis of the Recycle.bin artifacts ($I files)
+\
+Pure Python script\
+Runs on [Python 3](https://www.python.org/downloads/release/python-3137/)\
+No third-party library required (only use the standard library)
 
 ### <ins>Usage examples:</ins>
 
